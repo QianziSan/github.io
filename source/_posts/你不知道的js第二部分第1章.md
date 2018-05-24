@@ -1,7 +1,7 @@
 ---
 title: 你不知道的js第二部分第1章--关于this
 date: 2018-01-10 10:59:40
-tags:
+tags: 你不知道的js
 ---
 ## 为什么使用this    
 
@@ -11,7 +11,9 @@ tags:
 1. this指向自身
 
     人们把this理解成指向函数自身,这个腿短从英语的语法角度来说是说的通的。
-    但在javascript中this并不像我们所想的那样。
+    但在javascript中this并不像我们所想的那样。<br>
+    
+    <!-- more -->
     思考一下下边的代码
     ```
     function foo (num){
